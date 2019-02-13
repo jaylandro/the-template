@@ -1,6 +1,6 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/the-template)
 
-# GitPitch - The Template
+# sdg | Big Event 2019 | The Thrifty Developer
 
 *THE FASTEST WAY FROM IDEA TO PRESENTATION*
 
